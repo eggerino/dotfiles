@@ -6,6 +6,7 @@ hediet.vscode-drawio
 Ionide.Ionide-fsharp
 kreativ-software.csharpextensions
 ms-dotnettools.csharp
+ms-python.autopep8
 ms-python.isort
 ms-python.python
 ms-python.vscode-pylance
