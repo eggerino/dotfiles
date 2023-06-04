@@ -3,7 +3,6 @@ bungcip.better-toml
 GraphQL.vscode-graphql
 GraphQL.vscode-graphql-syntax
 hediet.vscode-drawio
-Ionide.Ionide-fsharp
 kreativ-software.csharpextensions
 ms-dotnettools.csharp
 ms-python.autopep8
