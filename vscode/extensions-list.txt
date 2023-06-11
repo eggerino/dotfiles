@@ -24,3 +24,4 @@ vadimcn.vscode-lldb
 vscode-icons-team.vscode-icons
 vscodevim.vim
 yoavbls.pretty-ts-errors
+zhuangtongfa.material-theme

@@ -8,11 +8,10 @@
     "editor.fontFamily": "'Cascadia Code', 'Courier New', monospace",
     "editor.formatOnSave": true,
     "editor.lineNumbers": "relative",
-    "editor.stickyScroll.enabled": true,
     "extensions.ignoreRecommendations": true,
     "window.restoreWindows": "none",
     "window.titleBarStyle": "custom",
-    "workbench.colorTheme": "Default Dark+",
+    "workbench.colorTheme": "One Dark Pro",
     "workbench.iconTheme": "vscode-icons",
     "workbench.startupEditor": "none",
     "[python]": {
