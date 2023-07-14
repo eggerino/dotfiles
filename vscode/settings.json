@@ -1,5 +1,5 @@
 {
-    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnWidth: 125 }",
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 125 }",
     "csharpextensions.includeNamespaces": false,
     "csharpextensions.privateMemberPrefix": "_",
     "csharpextensions.useFileScopedNamespace": true,
