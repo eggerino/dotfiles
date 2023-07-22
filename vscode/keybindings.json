@@ -1,31 +1,16 @@
-// Place your key bindings in this file to override the defaultsauto[]
 [
-    {
-        "key": "ctrl+shift+[Semicolon]",
-        "command": "workbench.action.terminal.new"
-    },
-    {
-        "key": "ctrl+[Semicolon]",
-        "command": "workbench.action.togglePanel"
-    },
-    {
-        "key": "ctrl+j",
-        "command": "-workbench.action.togglePanel"
-    },
-    {
-        "key": "alt+h alt+h",
-        "command": "workbench.action.moveEditorLeftInGroup"
-    },
-    {
-        "key": "ctrl+shift+pageup",
-        "command": "-workbench.action.moveEditorLeftInGroup"
-    },
-    {
-        "key": "alt+l alt+l",
-        "command": "workbench.action.moveEditorRightInGroup"
-    },
-    {
-        "key": "ctrl+shift+pagedown",
-        "command": "-workbench.action.moveEditorRightInGroup"
-    }
+    // General
+    { "key": "ctrl+n ctrl+w", "command": "workbench.action.newWindow" },
+    { "key": "ctrl+o ctrl+p", "command": "workbench.action.files.openFolder" },
+
+    // Terminal
+    { "key": "ctrl+j", "command": "workbench.action.togglePanel" },
+    { "key": "ctrl+n", "command": "workbench.action.terminal.new", "when": "terminalFocus" },
+    { "key": "ctrl+l", "command": "workbench.action.terminal.focusNext", "when": "terminalFocus" },
+    { "key": "ctrl+h", "command": "workbench.action.terminal.focusPrevious", "when": "terminalFocus" },
+
+    // File tree/Sidebar
+    { "key": "ctrl+h", "command": "workbench.action.toggleSidebarVisibility", "when": "!terminalFocus" },
+    { "key": "ctrl+n", "command": "explorer.newFile", "when": "explorerViewletFocus" },
+    { "key": "ctrl+shift+n", "command": "explorer.newFolder", "when": "explorerViewletFocus" }
 ]
