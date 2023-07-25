@@ -1,5 +1,4 @@
 bradlc.vscode-tailwindcss
-bungcip.better-toml
 GraphQL.vscode-graphql
 GraphQL.vscode-graphql-syntax
 kreativ-software.csharpextensions
@@ -18,9 +17,11 @@ ms-vscode.cpptools
 patcx.vscode-nuget-gallery
 rust-lang.rust-analyzer
 Serhioromano.vscode-st
+tamasfe.even-better-toml
 twxs.cmake
 usernamehw.errorlens
 vadimcn.vscode-lldb
 vscode-icons-team.vscode-icons
+vscodevim.vim
 yoavbls.pretty-ts-errors
 zhuangtongfa.material-theme
