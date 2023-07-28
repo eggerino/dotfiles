@@ -1,0 +1,16 @@
+[
+    // General
+    { "key": "ctrl+n ctrl+w", "command": "workbench.action.newWindow" },
+    { "key": "ctrl+o ctrl+p", "command": "workbench.action.files.openFolder" },
+
+    // Terminal
+    { "key": "ctrl+j", "command": "workbench.action.togglePanel" },
+    { "key": "ctrl+n", "command": "workbench.action.terminal.new", "when": "terminalFocus" },
+    { "key": "ctrl+l", "command": "workbench.action.terminal.focusNext", "when": "terminalFocus" },
+    { "key": "ctrl+h", "command": "workbench.action.terminal.focusPrevious", "when": "terminalFocus" },
+
+    // File tree/Sidebar
+    { "key": "ctrl+h", "command": "workbench.action.toggleSidebarVisibility", "when": "!terminalFocus" },
+    { "key": "ctrl+n", "command": "explorer.newFile", "when": "explorerViewletFocus" },
+    { "key": "ctrl+shift+n", "command": "explorer.newFolder", "when": "explorerViewletFocus" }
+]
