@@ -15,7 +15,6 @@
     "editor.minimap.enabled": false,
     "window.titleBarStyle": "custom",
     "window.zoomLevel": 0.5,
-    "workbench.activityBar.visible": false,
     "workbench.colorTheme": "One Dark Pro",
     "workbench.iconTheme": "vscode-icons",
 
