@@ -17,8 +17,8 @@
     "window.titleBarStyle": "custom",
     "window.zoomLevel": 0.5,
     "workbench.activityBar.visible": false,
-    "workbench.colorTheme": "Rosé Pine Moon (no italics)",
-    "workbench.iconTheme": "rose-pine-icons",
+    "workbench.colorTheme": "Catppuccin Frappé",
+    "workbench.iconTheme": "vscode-icons",
 
     // Extensions
 
