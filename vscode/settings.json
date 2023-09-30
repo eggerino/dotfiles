@@ -10,6 +10,7 @@
     // UI
     "editor.codeLens": false,
     "editor.lineNumbers": "relative",
+    "editor.minimap.enabled": false,
     "window.titleBarStyle": "custom",
 
     // Extensions
