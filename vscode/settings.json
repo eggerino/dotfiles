@@ -1,8 +1,15 @@
 {
     // General
+    "explorer.compactFolders": false,
+    "extensions.ignoreRecommendations": true,
+
+    // Startup
+    "window.restoreWindows": "none",
+    "workbench.startupEditor": "none",
+
+    // UI
     "editor.codeLens": false,
     "editor.lineNumbers": "relative",
-    "explorer.compactFolders": false,
     "window.titleBarStyle": "custom",
 
     // Extensions
