@@ -1,24 +1,9 @@
 {
     // General
-    "explorer.compactFolders": false,
-    "extensions.ignoreRecommendations": true,
-
-    // Startup
-    "window.restoreWindows": "none",
-    "workbench.startupEditor": "none",
-
-    // UI
-    "breadcrumbs.enabled": false,
     "editor.codeLens": false,
-    "editor.fontFamily": "Cascadia Code",
     "editor.lineNumbers": "relative",
-    "editor.minimap.enabled": false,
-    "update.showReleaseNotes": false,
+    "explorer.compactFolders": false,
     "window.titleBarStyle": "custom",
-    "window.zoomLevel": 0.5,
-    "workbench.activityBar.visible": false,
-    "workbench.colorTheme": "Catppuccin Frappé",
-    "workbench.iconTheme": "vscode-icons",
 
     // Extensions
 
