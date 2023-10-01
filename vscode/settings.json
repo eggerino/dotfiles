@@ -65,6 +65,5 @@
         { "before": [">"], "commands": ["editor.action.indentLines"] },
         // toggle comment selection
         { "before": ["leader", "c"], "commands": ["editor.action.commentLine"] }
-    ],
-    "tabnine.experimentalAutoImports": true
+    ]
 }
