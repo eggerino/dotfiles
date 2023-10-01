@@ -9,9 +9,13 @@
 
     // UI
     "editor.codeLens": false,
+    "editor.fontFamily": "Cascadia Code",
     "editor.lineNumbers": "relative",
     "editor.minimap.enabled": false,
     "window.titleBarStyle": "custom",
+    "window.zoomLevel": 0.5,
+    "workbench.colorTheme": "Catppuccin Frappé",
+    "workbench.iconTheme": "vscode-icons",
 
     // Extensions
 
@@ -61,5 +65,6 @@
         { "before": [">"], "commands": ["editor.action.indentLines"] },
         // toggle comment selection
         { "before": ["leader", "c"], "commands": ["editor.action.commentLine"] }
-    ]
+    ],
+    "tabnine.experimentalAutoImports": true
 }
