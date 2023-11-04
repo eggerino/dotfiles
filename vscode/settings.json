@@ -1,10 +1,11 @@
 {
     "editor.codeLens": false,
     "editor.fontFamily": "Cascadia Code",
-    "editor.fontSize": 16,
+    "editor.minimap.enabled": false,
     "extensions.ignoreRecommendations": true,
     "window.titleBarStyle": "custom",
-    "workbench.colorTheme": "One Dark Pro",
+    "window.zoomLevel": 0.5,
+    "workbench.colorTheme": "Catppuccin Frappé",
     "workbench.iconTheme": "vscode-icons",
     
     // C/C++
