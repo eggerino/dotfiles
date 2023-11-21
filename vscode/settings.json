@@ -3,10 +3,12 @@
     "editor.fontFamily": "Cascadia Code",
     "editor.minimap.enabled": false,
     "extensions.ignoreRecommendations": true,
+    "window.restoreWindows": "none",
     "window.titleBarStyle": "custom",
     "window.zoomLevel": 0.5,
     "workbench.colorTheme": "Catppuccin Frappé",
     "workbench.iconTheme": "vscode-icons",
+    "workbench.startupEditor": "none",
     
     // C/C++
     "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 125 }",
