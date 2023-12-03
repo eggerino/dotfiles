@@ -1,5 +1,4 @@
 bradlc.vscode-tailwindcss
-Catppuccin.catppuccin-vsc
 GraphQL.vscode-graphql
 GraphQL.vscode-graphql-syntax
 kreativ-software.csharpextensions
@@ -17,10 +16,11 @@ ms-toolsai.vscode-jupyter-cell-tags
 ms-toolsai.vscode-jupyter-slideshow
 ms-vscode.cmake-tools
 ms-vscode.cpptools
+mvllow.rose-pine
 rust-lang.rust-analyzer
 tamasfe.even-better-toml
 twxs.cmake
 usernamehw.errorlens
 vadimcn.vscode-lldb
-vscode-icons-team.vscode-icons
+vscodevim.vim
 yoavbls.pretty-ts-errors
