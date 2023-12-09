@@ -1,19 +1,21 @@
 {
-    "breadcrumbs.enabled": false,
+    // Disable annovances
     "editor.codeLens": false,
-    "editor.fontFamily": "Cascadia Code",
-    "editor.lineNumbers": "relative",
     "editor.minimap.enabled": false,
-    "explorer.compactFolders": false,
     "extensions.ignoreRecommendations": true,
+
+    // Startup
     "update.showReleaseNotes": false,
     "window.restoreWindows": "none",
-    "window.titleBarStyle": "custom",
-    "window.zoomLevel": 1.0,
-    "workbench.activityBar.location": "top",
-    "workbench.colorTheme": "Catppuccin Frappé",
-    "workbench.iconTheme": "catppuccin-frappe",
     "workbench.startupEditor": "none",
+
+    // Theming
+    "editor.fontFamily": "Cascadia Code",
+    "window.titleBarStyle": "custom",
+    "workbench.colorTheme": "GitHub Dark",
+    "workbench.iconTheme": "material-icon-theme",
+
+    // Extensions
     
     // C/C++
     "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 125 }",
@@ -30,6 +32,8 @@
     },
 
     // VIM
+    "editor.lineNumbers": "relative",
+    "explorer.compactFolders": false,
     "vim.leader": " ",
     "vim.useSystemClipboard": true,
     "vim.normalModeKeyBindingsNonRecursive": [
@@ -51,15 +55,18 @@
         { "before": ["leader", "i"], "commands": ["editor.action.formatDocument"] },
 
         // Find stuff
-        { "before": ["leader", "d"], "commands": ["editor.action.showDefinitionPreviewHover"] },
+        { "before": ["leader", "p"], "commands": ["editor.action.showDefinitionPreviewHover"] },
         { "before": ["g", "r"], "commands": ["editor.action.goToReferences"] },
         { "before": ["g", "d"], "commands": ["editor.action.revealDefinition"] }
     ],
     "vim.visualModeKeyBindingsNonRecursive": [
-        // Stay in visual mode while indenting
-        { "before": ["<"], "commands": ["editor.action.outdentLines"] },
-        { "before": [">"], "commands": ["editor.action.indentLines"] },
-        // toggle comment selection
-        { "before": ["leader", "c"], "commands": ["editor.action.commentLine"] }
+        // Modify selection
+        { "before": ["leader", "c"], "commands": ["editor.action.commentLine"] },
+
+        // Move selection around
+        { "before": ["<S-h>"], "commands": ["editor.action.outdentLines"] },
+        { "before": ["<S-l>"], "commands": ["editor.action.indentLines"] },
+        { "before": ["<S-j>"], "commands": ["editor.action.moveLinesDownAction"]},
+        { "before": ["<S-k>"], "commands": ["editor.action.moveLinesUpAction"]}
     ]
 }
