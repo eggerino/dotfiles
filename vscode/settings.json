@@ -12,8 +12,8 @@
     // Theming
     "editor.fontFamily": "Cascadia Code",
     "window.titleBarStyle": "custom",
-    "workbench.colorTheme": "GitHub Dark",
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Catppuccin Frappé",
+    "workbench.iconTheme": "catppuccin-frappe",
 
     // Extensions
     

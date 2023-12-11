@@ -1,5 +1,6 @@
 bradlc.vscode-tailwindcss
-GitHub.github-vscode-theme
+Catppuccin.catppuccin-vsc
+Catppuccin.catppuccin-vsc-icons
 GraphQL.vscode-graphql
 GraphQL.vscode-graphql-syntax
 kreativ-software.csharpextensions
@@ -17,7 +18,6 @@ ms-toolsai.vscode-jupyter-cell-tags
 ms-toolsai.vscode-jupyter-slideshow
 ms-vscode.cmake-tools
 ms-vscode.cpptools
-PKief.material-icon-theme
 rust-lang.rust-analyzer
 tamasfe.even-better-toml
 twxs.cmake
