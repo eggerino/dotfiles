@@ -64,9 +64,7 @@
         { "before": ["leader", "c"], "commands": ["editor.action.commentLine"] },
 
         // Move selection around
-        { "before": ["<S-h>"], "commands": ["editor.action.outdentLines"] },
-        { "before": ["<S-l>"], "commands": ["editor.action.indentLines"] },
-        { "before": ["<S-j>"], "commands": ["editor.action.moveLinesDownAction"]},
-        { "before": ["<S-k>"], "commands": ["editor.action.moveLinesUpAction"]}
+        { "before": ["<"], "commands": ["editor.action.outdentLines"] },
+        { "before": [">"], "commands": ["editor.action.indentLines"] }
     ]
 }
