@@ -1,8 +1,7 @@
 bradlc.vscode-tailwindcss
-Catppuccin.catppuccin-vsc
-Catppuccin.catppuccin-vsc-icons
 GraphQL.vscode-graphql
 GraphQL.vscode-graphql-syntax
+Ionide.Ionide-fsharp
 kreativ-software.csharpextensions
 ms-azuretools.vscode-docker
 ms-dotnettools.csharp
@@ -18,10 +17,10 @@ ms-toolsai.vscode-jupyter-cell-tags
 ms-toolsai.vscode-jupyter-slideshow
 ms-vscode.cmake-tools
 ms-vscode.cpptools
+PKief.material-icon-theme
 rust-lang.rust-analyzer
 tamasfe.even-better-toml
 twxs.cmake
 usernamehw.errorlens
 vadimcn.vscode-lldb
-vscodevim.vim
 yoavbls.pretty-ts-errors
