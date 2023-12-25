@@ -3,7 +3,6 @@ Catppuccin.catppuccin-vsc
 Catppuccin.catppuccin-vsc-icons
 GraphQL.vscode-graphql
 GraphQL.vscode-graphql-syntax
-Ionide.Ionide-fsharp
 kreativ-software.csharpextensions
 ms-azuretools.vscode-docker
 ms-dotnettools.csharp
@@ -24,5 +23,4 @@ tamasfe.even-better-toml
 twxs.cmake
 usernamehw.errorlens
 vadimcn.vscode-lldb
-vscodevim.vim
 yoavbls.pretty-ts-errors
