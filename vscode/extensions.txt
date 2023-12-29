@@ -1,5 +1,4 @@
 bradlc.vscode-tailwindcss
-Catppuccin.catppuccin-vsc
 GraphQL.vscode-graphql
 GraphQL.vscode-graphql-syntax
 kreativ-software.csharpextensions
