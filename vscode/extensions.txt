@@ -1,4 +1,5 @@
 bradlc.vscode-tailwindcss
+Catppuccin.catppuccin-vsc
 GraphQL.vscode-graphql
 GraphQL.vscode-graphql-syntax
 kreativ-software.csharpextensions
@@ -22,4 +23,5 @@ twxs.cmake
 usernamehw.errorlens
 vadimcn.vscode-lldb
 vscode-icons-team.vscode-icons
+vscodevim.vim
 yoavbls.pretty-ts-errors
