@@ -23,4 +23,5 @@ twxs.cmake
 usernamehw.errorlens
 vadimcn.vscode-lldb
 vscode-icons-team.vscode-icons
-yoavbls.pretty-ts-errors
+vscodevim.vim
+YoavBls.pretty-ts-errors
