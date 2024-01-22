@@ -15,8 +15,6 @@
     "catppuccin.italicComments": false,
     "editor.fontFamily": "Cascadia Code",
     "window.titleBarStyle": "custom",
-    "window.zoomLevel": 0.5,
-    "workbench.activityBar.location": "top",
     "workbench.colorTheme": "Catppuccin Frappé",
     "workbench.iconTheme": "vscode-icons",
 
