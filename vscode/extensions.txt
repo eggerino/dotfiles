@@ -1,4 +1,5 @@
 bradlc.vscode-tailwindcss
+Catppuccin.catppuccin-vsc
 GraphQL.vscode-graphql
 GraphQL.vscode-graphql-syntax
 kreativ-software.csharpextensions
@@ -6,6 +7,7 @@ ms-azuretools.vscode-docker
 ms-dotnettools.csharp
 ms-dotnettools.vscode-dotnet-runtime
 ms-python.autopep8
+ms-python.debugpy
 ms-python.isort
 ms-python.python
 ms-python.vscode-pylance
