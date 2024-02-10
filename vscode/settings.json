@@ -11,10 +11,14 @@
     "workbench.startupEditor": "none",
 
     // Theming / Visuals
+    "catppuccin.accentColor": "blue",
+    "catppuccin.boldKeywords": false,
+    "catppuccin.italicComments": false,
+    "catppuccin.italicKeywords": false,
     "editor.fontFamily": "Cascadia Code",
     "window.titleBarStyle": "custom",
     "workbench.iconTheme": "vscode-icons",
-    "workbench.colorTheme": "GitHub Dark",
+    "workbench.colorTheme": "Catppuccin Frappé",
 
     // Extensions
 
