@@ -10,9 +10,11 @@
     "workbench.startupEditor": "none",
 
     // Theming / Visuals
+    "catppuccin.italicKeywords": false,
     "editor.fontFamily": "Cascadia Code",
     "window.titleBarStyle": "custom",
-    "workbench.iconTheme": "vscode-icons",
+    "workbench.iconTheme": "catppuccin-macchiato",
+    "workbench.colorTheme": "Catppuccin Macchiato",
 
     // Extensions
 
