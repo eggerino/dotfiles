@@ -13,7 +13,6 @@
     "editor.fontFamily": "Cascadia Code",
     "window.titleBarStyle": "custom",
     "workbench.iconTheme": "vscode-icons",
-    "workbench.colorTheme": "Default Dark+",
 
     // Extensions
 
