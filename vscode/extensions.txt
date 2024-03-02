@@ -1,7 +1,6 @@
 bradlc.vscode-tailwindcss
 graphql.vscode-graphql
 graphql.vscode-graphql-syntax
-kreativ-software.csharpextensions
 ms-azuretools.vscode-docker
 ms-dotnettools.csharp
 ms-dotnettools.vscode-dotnet-runtime

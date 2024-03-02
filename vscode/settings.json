@@ -18,13 +18,7 @@
 
     // C/C++
     "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 125 }",
-    
-    // C#
-    "csharpextensions.includeNamespaces": false,
-    "csharpextensions.privateMemberPrefix": "_",
-    "csharpextensions.useFileScopedNamespace": true,
-    "csharpextensions.useThisForCtorAssignments": false,
-    
+
     // Python
     "[python]": {
         "editor.defaultFormatter": "ms-python.autopep8"
