@@ -15,7 +15,7 @@
     "catppuccin.italicComments": false,
     "catppuccin.italicKeywords": false,
     "editor.fontFamily": "Cascadia Code",
-    "editor.fontSize": 18,
+    "window.zoomLevel": 1,
     "window.titleBarStyle": "custom",
     "workbench.activityBar.location": "top",
     "workbench.iconTheme": "catppuccin-frappe",
