@@ -23,5 +23,4 @@ tamasfe.even-better-toml
 twxs.cmake
 usernamehw.errorlens
 vadimcn.vscode-lldb
-vscodevim.vim
 yoavbls.pretty-ts-errors
