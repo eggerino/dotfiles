@@ -1,3 +1,4 @@
+catppuccin.catppuccin-vsc
 graphql.vscode-graphql
 graphql.vscode-graphql-syntax
 ms-azuretools.vscode-docker
@@ -21,3 +22,4 @@ tamasfe.even-better-toml
 twxs.cmake
 usernamehw.errorlens
 vadimcn.vscode-lldb
+vscode-icons-team.vscode-icons
