@@ -1,15 +1,16 @@
 {
-    // Disable annovances
-    "editor.codeLens": false,
-    "editor.minimap.enabled": false,
-    "extensions.ignoreRecommendations": true,
-
     // Startup
     "update.showReleaseNotes": false,
     "window.restoreWindows": "none",
     "workbench.startupEditor": "none",
 
-    // Theming / Visuals
+    // Behaviour
+    "editor.codeLens": false,
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",    
+    "extensions.ignoreRecommendations": true,
+
+    // Theming
     "catppuccin.boldKeywords": false,
     "catppuccin.italicComments": false,
     "catppuccin.italicKeywords": false,
