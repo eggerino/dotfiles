@@ -1,6 +1,4 @@
 catppuccin.catppuccin-vsc
-graphql.vscode-graphql
-graphql.vscode-graphql-syntax
 ms-azuretools.vscode-docker
 ms-dotnettools.csdevkit
 ms-dotnettools.csharp
