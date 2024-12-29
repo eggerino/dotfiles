@@ -1,4 +1,5 @@
 catppuccin.catppuccin-vsc
+catppuccin.catppuccin-vsc-icons
 ms-azuretools.vscode-docker
 ms-dotnettools.csdevkit
 ms-dotnettools.csharp
@@ -20,4 +21,3 @@ tamasfe.even-better-toml
 twxs.cmake
 usernamehw.errorlens
 vadimcn.vscode-lldb
-vscode-icons-team.vscode-icons

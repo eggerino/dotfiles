@@ -17,7 +17,7 @@
     "editor.fontFamily": "Cascadia Code",
     "window.titleBarStyle": "custom",
     "workbench.colorTheme": "Catppuccin Frappé",
-    "workbench.iconTheme": "vscode-icons",
+    "workbench.iconTheme": "catppuccin-frappe",
 
     // Extensions
 
