@@ -2,6 +2,7 @@
     // Startup
     "update.showReleaseNotes": false,
     "window.restoreWindows": "none",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
     "workbench.startupEditor": "none",
 
     // Behaviour
@@ -18,17 +19,4 @@
     "window.titleBarStyle": "custom",
     "workbench.colorTheme": "Catppuccin Frappé",
     "workbench.iconTheme": "catppuccin-frappe",
-
-    // Extensions
-
-    // C/C++
-    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 125 }",
-
-    // C# Dev Kit
-    "dotnet.automaticallyCreateSolutionInWorkspace": false,
-
-    // Python
-    "[python]": {
-        "editor.defaultFormatter": "ms-python.autopep8"
-    }
 }
